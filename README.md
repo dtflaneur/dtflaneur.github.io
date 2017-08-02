@@ -1,2 +1,1 @@
-# dtflaneur.github.io
-dtflaneur
+dtflaneur.github.io
